@@ -36,4 +36,7 @@
     <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
     <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
     <fullyQualifiedTypeName name="com.worker.hrworker.entities.Worker"/>
+    <fullyQualifiedTypeName name="jdk.jfr.Enabled"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
 </qualifiedTypeNameHistroy>
